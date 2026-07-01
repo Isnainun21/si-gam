@@ -327,7 +327,7 @@ body::before {
     }
 
     body::before {
-        background-image: url('bg_mobile.png');
+        background-image: url('bg mobile si gam.png');
         background-size: cover;
         background-position: center center;
     }
@@ -335,7 +335,7 @@ body::before {
     .splash-screen {
         background:
             linear-gradient(rgba(255,255,255,0.86), rgba(255,255,255,0.9)),
-            url('bg_mobile.png') center / cover no-repeat;
+            url('bg\ mobile\ si\ gam.png') center / cover no-repeat;
     }
 
     .top-bar {
@@ -441,7 +441,7 @@ body::before {
 
 @media (max-height: 680px) and (max-width: 768px) {
     body::before {
-        background-image: url('bg_mobile.png');
+        background-image: url('bg\ mobile\ si\ gam.png');
         background-size: cover;
         background-position: center center;
     }
